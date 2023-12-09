@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "firstname": "sweta",
+      "lastname": "Raghvani",
+      "email": "sweta@gmail.com",
+      "password": "sweta"
+    },
+    {
+      "firstname": "Raghvani",
+      "lastname": "shweta",
+      "email": "sweta@gmail.com",
+      "password": "sweta",
+      "id": 2
+    },
+    {
+      "firstname": "react",
+      "lastname": "react",
+      "email": "react",
+      "password": "react",
+      "id": 3
+    },
+    {
+      "firstname": "react",
+      "lastname": "js",
+      "email": "reactjs@gmail.com",
+      "password": "react",
+      "id": 4
+    },
+    {
+      "firstname": "logic",
+      "lastname": "key",
+      "email": "keylogic",
+      "password": "keylogic",
+      "id": 5
+    },
+    {
+      "firstname": "a",
+      "lastname": "a",
+      "email": "a",
+      "password": "a",
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "caption": "abc",
+      "description": "hello000 java welcome to android..... helloooooooo........ ",
+      "id": 7
+    },
+    {
+      "firstname": "abc",
+      "lastname": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "id": 8
+    }
+  ]
+}

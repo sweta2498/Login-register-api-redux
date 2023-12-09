@@ -1,0 +1,6 @@
+export const ActionTypes = {
+    SET_LOGIN:"SET_LOGIN",
+    SET_LOGOUT:"SET_LOGOUT",
+    SET_REGISTER:"SET_REGISTER",
+    SET_SNACKBAR:"SET_SNACKBAR"
+};
